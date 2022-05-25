@@ -1,6 +1,6 @@
 ## Instructions to run
 
-## #Setup
+### Setup
 
 ```sh
 python3 -m venv venv

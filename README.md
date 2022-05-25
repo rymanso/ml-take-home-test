@@ -20,9 +20,9 @@ Hit the endpoint:
 
 `http://localhost:5000?tweet=hello`
 
-Replace hello with any message you like to get a category out
+Replace "hello" with any message you like to get a category out
 
-Negative: 0
-Positive: 1
-Neutral: 2
-Unknown: 3
+Negative: 0,
+Positive: 1,
+Neutral: 2,
+Unknown: 3,
